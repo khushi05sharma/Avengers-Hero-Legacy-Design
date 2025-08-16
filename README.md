@@ -49,5 +49,3 @@ Interactive flows let viewers navigate between characters, simulating a **mini M
 
 - Demonstrates **UI/UX design skills** beyond static layouts  
 - Showcases **visual hierarchy, content design, and brand consistency**  
-- Perfect for portfolios to attract recruiters in **front-end or product design roles**
-
