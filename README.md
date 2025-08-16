@@ -15,13 +15,13 @@ This project highlights characters like **Black Widow, Iron Man, Captain America
 
 ## 🔗 View the Design
 
-👉 [View Avengers Design in Figma](https://www.figma.com/your-shared-link-here)
+👉 [View Avengers Design in Figma](https://www.figma.com/design/1xukRAoWb8uzsYIZnINbIj/AVENGERS?node-id=0-1&t=wFkmPuE18ZLEq4gX-1)
 
 ---
 
 ## 🖼️ Preview
 
-![Avengers UI Preview](./)
+![Avengers UI Preview](./AVENGERS.png)
 
 ---
 
